@@ -1,0 +1,38 @@
+.Allrecipes{
+    width: 75%;
+    left: 12%;
+    margin-left: 15%;
+    margin-right: 20%;
+}
+*{
+    font-family: "Times New Roman", sans-serif, arial;
+}
+.common-div{
+   
+    border-color: rgb(212, 19, 19);
+     border-style:double;
+     height: 250pt;
+}
+.img-div{
+   margin-left: 0;
+   width: 40%; 
+   float:left;
+}
+.text-div{
+    margin-right: 0;
+    margin-top: 0;
+     width: 40%;
+     border-color: black;
+     border-style:double;
+float: right;
+}
+.descr{
+    font-size: 20px; 
+    font-weight: 400
+}
+.list{
+    font-style: italic;  
+}
+.img-div{
+    width: 100%;
+}
